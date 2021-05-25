@@ -1,6 +1,6 @@
 # Project2
-Chương trình nhận diện số viết tay\n
-Các bước cài đặt\n
+* danh sách Chương trình nhận diện số viết tay
+* danh sách Các bước cài đặt\n
 B1: Clone Project
 B2: Downlaod các thư viện cần thiết
 B3: chạy chương trình
