@@ -6,8 +6,10 @@
   - B3: chạy chương trình
 * Kết quả minh họa:
 
-![image](https://user-images.githubusercontent.com/62825098/119502218-e4b76b00-bd93-11eb-809c-6da2fe543d04.png)
+![image](https://user-images.githubusercontent.com/62825098/123640191-1d42dc80-d84b-11eb-9acf-a8e990503183.png)
 
-![image](https://user-images.githubusercontent.com/62825098/119502245-f00a9680-bd93-11eb-92b3-10e7b9c73ce3.png)
 
-![image](https://user-images.githubusercontent.com/62825098/119502273-f7ca3b00-bd93-11eb-95da-ff8328e5101b.png)
+![image](https://user-images.githubusercontent.com/62825098/123640241-2c298f00-d84b-11eb-86b1-9fe9b6a6e4a5.png)
+
+
+![image](https://user-images.githubusercontent.com/62825098/123640281-33e93380-d84b-11eb-91ab-d27394a7357c.png)
